@@ -1,5 +1,3 @@
-Вот обновлённый пример файла `README.md` для проекта `circuitbreaker`, адаптированный под **язык Go (Golang)**:
-
 ---
 
 # Circuit Breaker
