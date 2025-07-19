@@ -1,5 +1,3 @@
----
-
 # Circuit Breaker
 
 ## 🚧 Реализация паттерна Circuit Breaker на Go
