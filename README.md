@@ -109,5 +109,3 @@ cb.OnStateChange = func(name string, from, to circuitbreaker.State) {
 Этот проект лицензируется под [MIT License](LICENSE).
 
 ---
-
-Если у вас есть специфические особенности реализации (например, поддержка контекста, таймеров, middleware и т.д.), я могу дополнить README под них.
